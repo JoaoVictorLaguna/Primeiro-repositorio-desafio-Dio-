@@ -3,4 +3,4 @@ git commit = realizar alterações
 git config = Ver configurações do git 
 git config --global user.name = configurar nome 
 git config --global email.name = configurar e-mail 
-(Dowlaod do Git: ) [https://git-scm.com/]
+{Dowlaod do Git: } (https://git-scm.com/)
